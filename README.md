@@ -1,7 +1,11 @@
 # Notable Quora Profiles
 
-![enter image description here](https://typography.guru/uploads/monthly_2015_06/quora.gif.6310a2894724c5ffa0aa61ab17fef40d.gif)[Quora Image reference](https://typography.guru/uploads/monthly_2015_06/quora.gif.6310a2894724c5ffa0aa61ab17fef40d.gif)
-** Notable Quora Profile list contributed by tech buddiç*es**
+![enter image description here](https://typography.guru/uploads/monthly_2015_06/quora.gif.6310a2894724c5ffa0aa61ab17fef40d.gif)
+[Quora Image reference](https://typography.guru/uploads/monthly_2015_06/quora.gif.6310a2894724c5ffa0aa61ab17fef40d.gif)
+
+
+##### Notable Quora Profile list contributed by tech buddies
+
 Fork the repository and add organised list of notable Quora profiles based on topics with .
 I hope your contribution will help Quora community to grow in wide areas.
 Follow the Contribution Guideline before making any pull requests
