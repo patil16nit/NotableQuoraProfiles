@@ -1,4 +1,4 @@
-# Notable Quora Profiles
+﻿# Notable Quora Profiles
 
 ![enter image description here](https://typography.guru/uploads/monthly_2015_06/quora.gif.6310a2894724c5ffa0aa61ab17fef40d.gif)
 [Quora Image reference](https://typography.guru/uploads/monthly_2015_06/quora.gif.6310a2894724c5ffa0aa61ab17fef40d.gif)
@@ -36,6 +36,9 @@ Follow the Contribution Guideline before making any pull requests
 - [Mark Eichenlaub](https://www.quora.com/profile/Mark-Eichenlaub)
 - [Venkatesh Rao](https://www.quora.com/profile/Venkatesh-Rao)
 - [Balaji Viswanathan](https://www.quora.com/profile/Balaji-Viswanathan-2)
+- [Ashish Kedia](https://www.quora.com/profile/Ashish-Kedia)
+- [Andrew Ng](https://www.quora.com/profile/Andrew-Ng)
+- [Thomas Cormen](https://www.quora.com/profile/Thomas-Cormen-1)
 ####  Businessmen and Investors
 - [James Altucher](https://www.quora.com/profile/James-Altucher)
 - [Mark Cuban](https://www.quora.com/topic/Mark-Cuban-business-person?q=mark+cuban)
